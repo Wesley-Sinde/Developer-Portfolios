@@ -41,7 +41,7 @@ This Developer Portfolio is a responsive and interactive showcase of my skills, 
 - HTML5
 - CSS3 (with Flexbox/Grid for layout)
 - JavaScript (ES6+)
-- [Any additional libraries or frameworks you've used]
+- additional libraries
 
 ## 🛠 Installation
 
@@ -65,6 +65,8 @@ Simply open the `index.html` file in a web browser to view the portfolio. Naviga
 developer-portfolio/
 │
 ├── index.html
+├── blog.html
+├── error.html
 ├── css/
 │   └── styles.css
 ├── js/
