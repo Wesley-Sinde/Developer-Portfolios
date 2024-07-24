@@ -45,7 +45,7 @@ This Developer Portfolio is a responsive and interactive showcase of my skills, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/developer-portfolio.git
+   git clone https://github.com/Wesley-Sinde/Developer-Portfolios
    ```
 2. Navigate to the project directory:
    ```
@@ -88,11 +88,11 @@ You can deploy this portfolio using GitHub Pages:
 1. Go to your repository settings on GitHub.
 2. Navigate to the "Pages" section.
 3. Select the main branch as the source.
-4. Click Save, and your portfolio will be live at `https://yourusername.github.io/developer-portfolio`.
+4. Click Save, and your portfolio will be live at `https://github.com/Wesley-Sinde/Developer-Portfolios`.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/developer-portfolio/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Wesley-Sinde/Developer-Portfolios/issues) if you want to contribute.
 
 ## 📄 License
 
@@ -100,9 +100,9 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [your.sindewesley5@gmail.com](mailto:your.sindewesley5@gmail.com)
 
-Project Link: [https://github.com/yourusername/developer-portfolio](https://github.com/yourusername/developer-portfolio)
+Project Link: [https://github.com/Wesley-Sinde/Developer-Portfolios](https://github.com/Wesley-Sinde/Developer-Portfolios)
 
 ---
 
