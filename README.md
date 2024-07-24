@@ -1,7 +1,9 @@
 # Developer Portfolio
 
 ![Portfolio Preview](./1.png)
-![Portfolio Preview](./2.png)
+
+<!-- ![Portfolio Preview](./2.png) -->
+
 ![Portfolio Preview](./3.png)
 ![Portfolio Preview](./4.png)
 
@@ -23,7 +25,7 @@
 
 This Developer Portfolio is a responsive and interactive showcase of my skills, projects, and professional journey as a web developer. It's designed to highlight my expertise in HTML, CSS, and JavaScript while providing an engaging user experience.
 
-![Skills Section](./skills-section.png)
+![Skills Section](./2.png)
 
 ## 🚀 Features
 
