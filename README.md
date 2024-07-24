@@ -102,7 +102,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 📬 Contact
 
-Your Name - [sindewesley5@gmail.com](your.sindewesley5@gmail.com)
+Your Name - [sindewesley5@gmail.com](sindewesley5@gmail.com)
 
 Project Link: [https://github.com/Wesley-Sinde/Developer-Portfolios](https://github.com/Wesley-Sinde/Developer-Portfolios)
 
